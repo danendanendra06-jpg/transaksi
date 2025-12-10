@@ -5,6 +5,7 @@ on:
     branches: [ master ]
   pull_request:
     branches: [ master ]
+  workflow_dispatch:
 
 jobs:
   build-and-test:
@@ -77,3 +78,4 @@ jobs:
     
     - name: Image digest
       run: echo "✅ Docker image pushed successfully!"
+
