@@ -12,6 +12,8 @@ SET time_zone = "+07:00";
 -- =========================================================
 -- Database: `penjualan`
 -- =========================================================
+CREATE DATABASE IF NOT EXISTS penjualan;
+USE penjualan;
 
 -- ---------------------------------------------------------
 -- 1. TABEL MASTER (TANPA FOREIGN KEY KE TABEL LAIN)
