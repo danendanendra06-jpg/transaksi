@@ -12,9 +12,12 @@ import java.util.List;
 public class TransaksiController {
 
     private final TransaksiService service;
+    private final ui.ft.ccit.faculty.transaksi.manager.TransactionManager transactionManager;
 
-    public TransaksiController(TransaksiService service) {
+    public TransaksiController(TransaksiService service,
+            ui.ft.ccit.faculty.transaksi.manager.TransactionManager transactionManager) {
         this.service = service;
+        this.transactionManager = transactionManager;
     }
 
     @GetMapping
@@ -40,6 +43,13 @@ public class TransaksiController {
     @ResponseStatus(HttpStatus.CREATED)
     public Transaksi create(@RequestBody Transaksi transaksi) {
         return service.save(transaksi);
+    }
+
+    // Endpoint baru untuk Transaksi Lengkap (Header + Detail + Potong Stok)
+    @PostMapping("/full")
+    @ResponseStatus(HttpStatus.CREATED)
+    public Transaksi createFull(@RequestBody ui.ft.ccit.faculty.transaksi.dto.TransactionRequest request) {
+        return transactionManager.createTransaction(request);
     }
 
     @PostMapping("/bulk")
