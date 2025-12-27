@@ -6,6 +6,13 @@ C:\Users\danen\Tugas_Kuliah\Tugas_CCIT\latihan\transaksi\src\main\java\ui\ft\cci
 C:\Users\danen\Tugas_Kuliah\Tugas_CCIT\latihan\transaksi\src\main\java\ui\ft\ccit\faculty\transaksi\barang\view\BarangService.java
 C:\Users\danen\Tugas_Kuliah\Tugas_CCIT\latihan\transaksi\src\main\java\ui\ft\ccit\faculty\transaksi\DataAlreadyExistsException.java
 C:\Users\danen\Tugas_Kuliah\Tugas_CCIT\latihan\transaksi\src\main\java\ui\ft\ccit\faculty\transaksi\DataNotFoundException.java
+C:\Users\danen\Tugas_Kuliah\Tugas_CCIT\latihan\transaksi\src\main\java\ui\ft\ccit\faculty\transaksi\detailtransaksi\controller\DetailTransaksiController.java
+C:\Users\danen\Tugas_Kuliah\Tugas_CCIT\latihan\transaksi\src\main\java\ui\ft\ccit\faculty\transaksi\detailtransaksi\model\DetailTransaksi.java
+C:\Users\danen\Tugas_Kuliah\Tugas_CCIT\latihan\transaksi\src\main\java\ui\ft\ccit\faculty\transaksi\detailtransaksi\model\DetailTransaksiId.java
+C:\Users\danen\Tugas_Kuliah\Tugas_CCIT\latihan\transaksi\src\main\java\ui\ft\ccit\faculty\transaksi\detailtransaksi\model\DetailTransaksiRepository.java
+C:\Users\danen\Tugas_Kuliah\Tugas_CCIT\latihan\transaksi\src\main\java\ui\ft\ccit\faculty\transaksi\detailtransaksi\view\DetailTransaksiAlreadyExistsException.java
+C:\Users\danen\Tugas_Kuliah\Tugas_CCIT\latihan\transaksi\src\main\java\ui\ft\ccit\faculty\transaksi\detailtransaksi\view\DetailTransaksiNotFoundException.java
+C:\Users\danen\Tugas_Kuliah\Tugas_CCIT\latihan\transaksi\src\main\java\ui\ft\ccit\faculty\transaksi\detailtransaksi\view\DetailTransaksiService.java
 C:\Users\danen\Tugas_Kuliah\Tugas_CCIT\latihan\transaksi\src\main\java\ui\ft\ccit\faculty\transaksi\GlobalExceptionHandler.java
 C:\Users\danen\Tugas_Kuliah\Tugas_CCIT\latihan\transaksi\src\main\java\ui\ft\ccit\faculty\transaksi\jenisbarang\controller\JenisBarangController.java
 C:\Users\danen\Tugas_Kuliah\Tugas_CCIT\latihan\transaksi\src\main\java\ui\ft\ccit\faculty\transaksi\jenisbarang\model\JenisBarang.java
@@ -13,6 +20,12 @@ C:\Users\danen\Tugas_Kuliah\Tugas_CCIT\latihan\transaksi\src\main\java\ui\ft\cci
 C:\Users\danen\Tugas_Kuliah\Tugas_CCIT\latihan\transaksi\src\main\java\ui\ft\ccit\faculty\transaksi\jenisbarang\view\JenisBarangAlreadyExistsException.java
 C:\Users\danen\Tugas_Kuliah\Tugas_CCIT\latihan\transaksi\src\main\java\ui\ft\ccit\faculty\transaksi\jenisbarang\view\JenisBarangNotFoundException.java
 C:\Users\danen\Tugas_Kuliah\Tugas_CCIT\latihan\transaksi\src\main\java\ui\ft\ccit\faculty\transaksi\jenisbarang\view\JenisBarangService.java
+C:\Users\danen\Tugas_Kuliah\Tugas_CCIT\latihan\transaksi\src\main\java\ui\ft\ccit\faculty\transaksi\karyawan\controller\KaryawanController.java
+C:\Users\danen\Tugas_Kuliah\Tugas_CCIT\latihan\transaksi\src\main\java\ui\ft\ccit\faculty\transaksi\karyawan\model\Karyawan.java
+C:\Users\danen\Tugas_Kuliah\Tugas_CCIT\latihan\transaksi\src\main\java\ui\ft\ccit\faculty\transaksi\karyawan\model\KaryawanRepository.java
+C:\Users\danen\Tugas_Kuliah\Tugas_CCIT\latihan\transaksi\src\main\java\ui\ft\ccit\faculty\transaksi\karyawan\view\KaryawanAlreadyExistsException.java
+C:\Users\danen\Tugas_Kuliah\Tugas_CCIT\latihan\transaksi\src\main\java\ui\ft\ccit\faculty\transaksi\karyawan\view\KaryawanNotFoundException.java
+C:\Users\danen\Tugas_Kuliah\Tugas_CCIT\latihan\transaksi\src\main\java\ui\ft\ccit\faculty\transaksi\karyawan\view\KaryawanService.java
 C:\Users\danen\Tugas_Kuliah\Tugas_CCIT\latihan\transaksi\src\main\java\ui\ft\ccit\faculty\transaksi\OpenApiConfig.java
 C:\Users\danen\Tugas_Kuliah\Tugas_CCIT\latihan\transaksi\src\main\java\ui\ft\ccit\faculty\transaksi\pelanggan\controller\PelangganController.java
 C:\Users\danen\Tugas_Kuliah\Tugas_CCIT\latihan\transaksi\src\main\java\ui\ft\ccit\faculty\transaksi\pelanggan\model\Pelanggan.java
